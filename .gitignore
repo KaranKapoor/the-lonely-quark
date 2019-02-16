@@ -4,7 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-*.meta
+[Aa]ssets/**/*.meta
 *.keystore
 *.der
 iOS/*
